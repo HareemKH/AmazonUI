@@ -1,15 +1,3 @@
-# BeginingOfWebDev
-Welcome to my Web Development Projects repository! This repository showcases my journey and achievements in web development, highlighting the progress I've made in creating various web applications and learning key technologies.
-
-## Achievements & Progress
-
-### 1. Login Page
-- **Description**: Designed and implemented a login page using HTML and CSS.
-- **Highlights**: Focused on clean and user-friendly design, ensuring a smooth user experience.
-
-### 2. HTML Resume
-- **Description**: Created a personal resume page using HTML.
-- **Highlights**: Showcased my skills, education, and experience in a structured and professional manner.
 
 ### 4. Amazon Clone
 - **Description**: Developed a clone of Amazon's website to practice front-end development and mimic e-commerce functionality.
