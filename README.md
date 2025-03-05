@@ -1,5 +1,5 @@
 
-### 4. Amazon Clone
+###  Amazon Clone
 - **Description**: Developed a clone of Amazon's website to practice front-end development and mimic e-commerce functionality.
 - **Highlights**: Implemented key features such as product listings, search functionality, and user interactions.
 
